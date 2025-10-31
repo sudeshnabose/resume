@@ -1,6 +1,20 @@
-body{
-    color:white;
-    /* background-image:url("./images/casey-horner-RmoWqDCqN2E-unsplash.jpg"); */
-    background-size: cover;
-    
+.main_div{
+    width: 75%;
+    height: 100%;
+    background-color: #ECFAE5;
+    margin: 100px 200px 100px 100px;
+    padding: 5%;
+}
+.header_sec{
+    border-bottom: 2px solid #8ABEB9;
+}
+#head_name{
+    color:#8ABEB9;
+    margin-bottom:2px;  
+}
+details{
+    margin-top: 5px;
+}
+.section_name{
+    color:#305669
 }
